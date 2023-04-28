@@ -7,15 +7,13 @@
 
 ## 编译说明
 
-`
-
-cd luago_vm
+```
+cd Luago_VM
 
 export GOPATH=$PWD
 
 go install luago
-
-`
+```
 
 然后就在/bin目录下出现可执行程序luago
 
